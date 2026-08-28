@@ -4,18 +4,6 @@ Author template for the **Machine Learning for Defence (ML4D)**,
 taking place **March 12, 2027** at the Fraunhofer Forum in Berlin, held jointly with
 the 11th Machine Learning for Cyber-Physical Systems (ML4CPS) workshop (March 11, 2027).
 
-## Contents
-
-```
-ml4d-template/
-├── main.tex           # Paper skeleton — start here
-├── ml4d.cls           # Workshop document class
-├── references.bib     # Bibliography (BibTeX)
-├── figures/
-│   └── example-plot.pdf
-└── .gitignore          # Ignores LaTeX build artifacts
-```
-
 ## Getting started
 
 1. Copy this template into your own project (or use it as a GitHub template repo).
